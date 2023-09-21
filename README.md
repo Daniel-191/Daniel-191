@@ -6,7 +6,7 @@
 
 # Get more info about me and my projects 
 
-[here](https://github.com/DanielJones02/Active-Projects)
+[HERE](https://github.com/DanielJones02/Active-Projects)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
