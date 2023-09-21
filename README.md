@@ -13,7 +13,7 @@
 </p>
 <h3 align="left">Hire Me: https://github.com/DanielJones02</h3>
 <p align="left">
-MOT ABLE TO BE HIRED AT THIS MOMENT
+NOT ABLE TO BE HIRED AT THIS MOMENT
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
