@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate Python and C++ developer</h3>
 <h3 align="center">Welcome To my github project!👋</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/DanielJones02](https://github.com/DanielJones02)
+- 👨‍💻 All of my projects are available at [My github](https://github.com/DanielJones02)
 
 # Get more info about me and my projects 
 
@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<h3 align="left">[Hire Me](https://github.com/DanielJones02)</h3>
+<h3 align="left">Hire Me: https://github.com/DanielJones02</h3>
 <p align="left">
 MOT ABLE TO BE HIRED AT THIS MOMENT
 </p>
