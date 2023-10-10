@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate Python and C++ developer</h3>
 <h3 align="center">Welcome To my github project!👋</h3>
 
-- 👨‍💻 All of my projects are available at [My github](https://github.com/DanielJones02)
+- 👨‍💻 All of my projects are available at [My github](https://github.com/DanielJones02) (where you are right now)
 
 # Get more info about me and my projects 
 
