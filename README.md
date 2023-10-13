@@ -24,9 +24,14 @@ NOT ABLE TO BE HIRED AT THIS MOMENT
 
 ## 💻 Tools, Languages, and Other Things I Work Well With 💻
 
-- ![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio-2019.png) 
-- ![Python](https://img.icons8.com/color/48/000000/python.png)
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-- ![CSS](https://img.icons8.com/color/48/000000/css3.png)
-- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) 
-- ![Linux](https://img.icons8.com/color/48/000000/linux.png) 
+- **Visual Studio** ![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio-2019.png)
+
+- **Python** ![Python](https://img.icons8.com/color/48/000000/python.png)
+
+- **HTML** ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+
+- **CSS** ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+
+- **C++** ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+
+- **Linux** ![Linux](https://img.icons8.com/color/48/000000/linux.png)
