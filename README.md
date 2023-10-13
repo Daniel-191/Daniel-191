@@ -1,16 +1,8 @@
-<h1 align="center">Hi 👋, I'm Daniel Jones</h1>
-<h3 align="center">I'm a passionate Python and C++ developer</h3>
-<h3 align="center">Welcome To my github project!👋</h3>
+# Hi 👋, I'm Daniel Jones
 
-- 👨‍💻 All of my projects are available at [My github](https://github.com/DanielJones02) (where you are right now)
+I'm a passionate Python and C++ developer. Welcome to my GitHub projects!
 
-![demo](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-# Get more info about me and my projects 
-
-[HERE](https://github.com/DanielJones02/Active-Projects)
-
-![demo](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/DanielJones02) (where you are right now).
 
 ## GitHub Stats
 
@@ -20,18 +12,6 @@
 
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername)
 
-![demo](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-<h3 align="left">Hire Me: https://github.com/DanielJones02</h3>
-<p align="left">
-NOT ABLE TO BE HIRED AT THIS MOMENT
-</p>
-
-![demo](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
 ## 💻 Tools, Languages, and Other Things I Work Well With 💻
 
 - ![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio-2019.png) 
@@ -40,3 +20,7 @@ NOT ABLE TO BE HIRED AT THIS MOMENT
 - ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 - ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) 
 - ![Linux](https://img.icons8.com/color/48/000000/linux.png) 
+
+## Connect with Me
+
+- [Hire Me](https://github.com/DanielJones02) (Not available for hire at the moment)
