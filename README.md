@@ -16,6 +16,8 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true)
 
+![Your GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
