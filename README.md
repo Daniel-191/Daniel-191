@@ -67,12 +67,12 @@
 ## 💻 Tools, Languages, and Other Things I Work Well With 💻
 
 <div align="center">
-  <img src="images/visual-studio.png" width="48" height="48" alt="Visual Studio" />
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
+  <img src="images/Visual_Studio_Icon_2019.svg.png" width="48" height="48" alt="Visual Studio" />
+  <img src="images/python.png" alt="Python" />
+  <img src="images/html.png" alt="HTML" />
+  <img src="images/css.png" alt="CSS" />
+  <img src="images/C++.png" alt="C++" />
+  <img src="images/linux.png" alt="Linux" />
 </div>
 
 <div align="center">
