@@ -67,7 +67,7 @@
 ## 💻 Tools, Languages, and Other Things I Work Well With 💻
 
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" alt="Visual Studio" />
+  <img src="images/visual-studio.png" width="48" height="48" alt="Visual Studio" />
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
