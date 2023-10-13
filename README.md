@@ -1,22 +1,23 @@
-<h1 align="center" style="color: #00FF00">Hi 👋, I'm Daniel Jones</h1>
-<h3 align="center" style="color: #00FF00">🚀 A Passionate Python and C++ Developer 🚀</h3>
-<h3 align="center" style="color: #00FF00">Welcome To My GitHub Profile! 👋</h3>
+<h1 align="center">Hi 👋, I'm Daniel Jones</h1>
+<h3 align="center">🚀 A Passionate Python and C++ Developer 🚀</h3>
+<h3 align="center">Welcome To My GitHub Profile! 👋</h3>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
 </div>
 
-<h2 align="center" style="color: #00FF00">🚀 Check out some of my Projects 🚀</h2>
+<h2 align="center">🚀 Check out some of my Projects 🚀</h2>
 
-<h3 align="center" style="color: #00FF00">Password Generator</h3>
+<h3 align="center">Password Generator</h3>
 
-<p align="center" style="color: #00FF00">
-  A Password Generator written in C++ with a terminal and GUI version. Windows-based.
+<p align="center">
+  A Password Generator written in C++ with a terminal and GUI version. Windows based.
 </p>
 
 <div align="center">
-  <a href="https://github.com/DanielJones02/Password-Generator" class="button" style="background-color: #00FF00">View Project</a>
+  <a href="https://github.com/DanielJones02/Password-Generator" class="button">View Project</a>
 </div>
+
 
 # More about me and my projects
 
@@ -44,18 +45,18 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
 </div>
 
-<h3 align="center" style="color: #00FF00">Connect with Me:</h3>
+<h3 align="center">Connect with Me:</h3>
 
-<p align="center" style="color: #00FF00">
-  <a href="I_will_change_later@gmail.com" style="color: #00FF00">✉️ Email</a> |
-  <a href="https://www.linkedin.com/in/yourlinkedinprofile" style="color: #00FF00">💼 LinkedIn</a> |
-  <a href="https://twitter.com/yourtwitter" style="color: #00FF00">🐦 Twitter</a> |
-  <a href="https://www.youtube.com/channel/UCDRBLCjQSKVyy_cCxTpqRnw" style="color: #00FF00">🌐 Youtube Channel</a>
+<p align="center">
+  <a href="I_will_change_later@gmail.com">✉️ Email</a> |
+  <a href="https://www.linkedin.com/in/yourlinkedinprofile">💼 LinkedIn</a> |
+  <a href="https://twitter.com/yourtwitter">🐦 Twitter</a> |
+  <a href="https://www.youtube.com/channel/UCDRBLCjQSKVyy_cCxTpqRnw">🌐 Youtube Channel</a>
 </p>
 
-<h3 align="center" style="color: #00FF00">Hire Me:</h3>
+<h3 align="center">Hire Me:</h3>
 
-<p align="center" style="color: #00FF00">
+<p align="center">
   Currently not available for hire
 </p>
 
@@ -78,7 +79,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
 </div>
 
-<h2 align="center" style="color: #00FF00">📺 Youtube Channel 📺</h2>
+<h2 align="center">📺 Youtube Channel 📺</h2>
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=m4cp0uQON50">
@@ -108,5 +109,5 @@
 </div>
 
 <div align="center">
-  <p>If you'd like to support my work, consider starring my projects!</p>
+  <p>If you'd like to support my work, consider staring my projects!</p>
 </div>
