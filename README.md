@@ -38,6 +38,7 @@
 </div>
 
 <div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJones02" alt="Your Top Languages" />
 </div>
 
