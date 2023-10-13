@@ -109,5 +109,5 @@
 </div>
 
 <div align="center">
-  <p>If you'd like to support my work, consider becoming a subscriber on my YouTube channel or making a direct donation.</p>
+  <p>If you'd like to support my work, consider staring my projects!</p>
 </div>
