@@ -11,13 +11,12 @@
 <h3 align="center">Password Generator</h3>
 
 <p align="center">
-  A Password Generator written in C++ with a terminal and GUI version. Windows based.
+  A Password Generator written in C++ with a terminal and GUI version. Windows-based.
 </p>
 
 <div align="center">
   <a href="https://github.com/DanielJones02/Password-Generator" class="button">View Project</a>
 </div>
-
 
 # More about me and my projects
 
@@ -109,5 +108,5 @@
 </div>
 
 <div align="center">
-  <p>If you'd like to support my work, consider staring my projects!</p>
+  <p>If you'd like to support my work, consider starring my projects!</p>
 </div>
