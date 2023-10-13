@@ -51,7 +51,7 @@
   <a href="I_will_change_later@gmail.com">✉️ Email</a> |
   <a href="https://www.linkedin.com/in/yourlinkedinprofile">💼 LinkedIn</a> |
   <a href="https://twitter.com/yourtwitter">🐦 Twitter</a> |
-  <a href="https://yourportfolio.com">🌐 Portfolio</a>
+  <a href="https://www.youtube.com/channel/UCDRBLCjQSKVyy_cCxTpqRnw">🌐 Youtube Channel</a>
 </p>
 
 <h3 align="center">Hire Me:</h3>
@@ -82,17 +82,17 @@
 <h2 align="center">📺 Youtube Channel 📺</h2>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=video1">
-    <img src="https://i.ytimg.com/vi/video1/maxresdefault.jpg" alt="Video 1 Title" />
+  <a href="https://www.youtube.com/watch?v=m4cp0uQON50">
+    <img src="https://i.ytimg.com/vi/video1/maxresdefault.jpg" alt="GUI preview" />
   </a>
-  <p>Description of video 1</p>
+  <p>Video showing off my horrible first GUI</p>
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=video2">
-    <img src="https://i.ytimg.com/vi/video2/hqdefault.jpg" alt="Video 2 Title" />
+  <a href="https://www.youtube.com/watch?v=9QbCJY5QnYE">
+    <img src="https://i.ytimg.com/vi/video2/hqdefault.jpg" alt="Password Generator GUI" />
   </a>
-  <p>Description of video 2</p>
+  <p>Preview of my Password Generator</p>
 </div>
 
 <div align="center">
@@ -103,7 +103,7 @@
 </div>
 
 <div align="center">
-  <a href="https://youtube.com/c/YourYouTubeChannel?sub_confirmation=1">
+  <a href="https://www.youtube.com/channel/UCDRBLCjQSKVyy_cCxTpqRnw?sub_confirmation=1">
     <img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white" alt="Subscribe on YouTube" />
   </a>
 </div>
