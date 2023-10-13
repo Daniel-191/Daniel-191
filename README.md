@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Daniel Jones</h1>
 <h3 align="center">🚀 A Passionate Python and C++ Developer 🚀</h3>
-<h3 align="center">Welcome To My GitHub Projects! 👋</h3>
+<h3 align="center">Welcome To My GitHub Profile! 👋</h3>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
 </div>
 
-<h2 align="center">🚀 Check Out My Project 🚀</h2>
+<h2 align="center">🚀 Check out Some of my Projects 🚀</h2>
 
 <h3 align="center">Password Generator</h3>
 
 <p align="center">
-  A secure and customizable password generator built with Python. Generate strong and unique passwords for your accounts.
+  A Password Generator written in C++ with a terminal and GUI version. Windows based.
 </p>
 
 <div align="center">
@@ -19,7 +19,7 @@
 </div>
 
 
-# Explore More About Me and My Projects
+# More about me and my projects
 
 [📁 Active Projects](https://github.com/DanielJones02/Active-Projects)
 
@@ -48,7 +48,7 @@
 <h3 align="center">Connect with Me:</h3>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">✉️ Email</a> |
+  <a href="I_will_change_later@gmail.com">✉️ Email</a> |
   <a href="https://www.linkedin.com/in/yourlinkedinprofile">💼 LinkedIn</a> |
   <a href="https://twitter.com/yourtwitter">🐦 Twitter</a> |
   <a href="https://yourportfolio.com">🌐 Portfolio</a>
