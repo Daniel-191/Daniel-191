@@ -30,7 +30,7 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielJones02&show_icons=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielJones02&theme=highcontrast&show_icons=true" alt="Your GitHub Stats" />
 </div>
 
 <div align="center">
