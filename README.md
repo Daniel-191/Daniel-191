@@ -34,10 +34,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielJones02" alt="Your GitHub Contributions" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielJones02&theme=highcontrast" alt="Your GitHub Contributions" />
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DanielJones02&theme=dark)](https://git.io/streak-stats)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJones02" alt="Your Top Languages" />
 </div>
