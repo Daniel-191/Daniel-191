@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [My github](https://github.com/DanielJones02) (where you are right now)
 
-https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+![demo](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 # Get more info about me and my projects 
 
