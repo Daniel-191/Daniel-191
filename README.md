@@ -38,7 +38,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJones02" alt="Your Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJones02&theme=highcontrast" alt="Your Top Languages" />
 </div>
 
 <div align="center">
