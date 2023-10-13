@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
 </div>
 
-<h2 align="center">🚀 Check out Some of my Projects 🚀</h2>
+<h2 align="center">🚀 Check out some of my Projects 🚀</h2>
 
 <h3 align="center">Password Generator</h3>
 
@@ -79,7 +79,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
 </div>
 
-<h2 align="center">📺 Latest YouTube Videos 📺</h2>
+<h2 align="center">📺 Youtube Channel 📺</h2>
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=video1">
