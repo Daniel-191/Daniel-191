@@ -6,6 +6,19 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
 </div>
 
+<h2 align="center">🚀 Check Out My Project 🚀</h2>
+
+<h3 align="center">Password Generator</h3>
+
+<p align="center">
+  A secure and customizable password generator built with Python. Generate strong and unique passwords for your accounts.
+</p>
+
+<div align="center">
+  <a href="https://github.com/DanielJones02/Password-Generator" class="button">View Project</a>
+</div>
+
+
 # Explore More About Me and My Projects
 
 [📁 Active Projects](https://github.com/DanielJones02/Active-Projects)
