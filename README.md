@@ -17,7 +17,7 @@
 </p>
 
 <div align="center">
-  <ha href="https://github.com/DanielJones02/Password-Generator" class="button">Password Generator</ha>
+  <a href="https://github.com/DanielJones02/Password-Generator" class="button">Password Generator</a>
 </div>
 
 
