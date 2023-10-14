@@ -8,13 +8,15 @@
 
 <h2 align="center">🚀 Check out some of my Projects 🚀</h2>
 
-<div align="center">
-  <h3 href="https://github.com/DanielJones02/Password-Generator" class="button">Password Generator</h3>
-</div>
+<div align="center">Password Generator</div>
 
 <p align="center">
   A Password Generator written in C++ with a terminal and GUI version. Windows based.
 </p>
+
+<div align="center">
+  <ha href="https://github.com/DanielJones02/Password-Generator" class="button">Password Generator</ha>
+</div>
 
 
 # More about me and my projects
