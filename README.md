@@ -8,7 +8,9 @@
 
 <h2 align="center">🚀 Check out some of my Projects 🚀</h2>
 
-<div align="center">Password Generator</div>
+<div align="center">
+  <h3>Password Generator</h3>
+</div>
 
 <p align="center">
   A Password Generator written in C++ with a terminal and GUI version. Windows based.
