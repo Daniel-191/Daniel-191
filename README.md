@@ -5,7 +5,9 @@
 
 # Protfolio - Info
  |
+ 
  |
+ 
  \/
 
 [📁 Active Projects](https://github.com/DanielJones02/Active-Projects)
