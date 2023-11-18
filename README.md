@@ -3,7 +3,10 @@
 <h3 align="center">Welcome To My GitHub Profile! 👋</h3>
 
 
-# More about me and my projects
+# Protfolio - Info
+ |
+ |
+ \/
 
 [📁 Active Projects](https://github.com/DanielJones02/Active-Projects)
 
