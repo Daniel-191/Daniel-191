@@ -2,19 +2,11 @@
 <h3 align="center">🚀 A Passionate Python and C++ Developer 🚀</h3>
 <h3 align="center">Welcome To My GitHub Profile! 👋</h3>
 
-<h2 align="center">🚀 Check out some of my Projects 🚀</h2>
-
-<div align="center">
-  <h3>Password Generator</h3>
-</div>
-
-<p align="center">
-  A Password Generator written in C++ with a terminal and GUI version. Windows based.
-</p>
 
 # More about me and my projects
 
 [📁 Active Projects](https://github.com/DanielJones02/Active-Projects)
+
 
 ## GitHub Stats
 
@@ -29,6 +21,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJones02&theme=highcontrast" alt="Your Top Languages" />
 </div>
+
 
 <h3 align="center">Connect with Me:</h3>
 
