@@ -2,10 +2,6 @@
 <h3 align="center">🚀 A Passionate Python and C++ Developer 🚀</h3>
 <h3 align="center">Welcome To My GitHub Profile! 👋</h3>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
-</div>
-
 <h2 align="center">🚀 Check out some of my Projects 🚀</h2>
 
 <div align="center">
@@ -16,18 +12,9 @@
   A Password Generator written in C++ with a terminal and GUI version. Windows based.
 </p>
 
-<div align="center">
-  <a href="https://github.com/DanielJones02/Password-Generator" class="button">View Project</a>
-</div>
-
-
 # More about me and my projects
 
 [📁 Active Projects](https://github.com/DanielJones02/Active-Projects)
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
-</div>
 
 ## GitHub Stats
 
@@ -41,10 +28,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJones02&theme=highcontrast" alt="Your Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
 </div>
 
 <h3 align="center">Connect with Me:</h3>
@@ -73,10 +56,6 @@
   <img src="https://github.com/DanielJones02/DanielJones02/blob/main/images/css.png" alt="CSS" />
   <img src="https://github.com/DanielJones02/DanielJones02/blob/main/images/C%2B%2B.png" alt="C++" />
   <img src="https://github.com/DanielJones02/DanielJones02/blob/main/images/linux.png" alt="Linux" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
 </div>
 
 <h2 align="center">📺 Youtube Channel 📺</h2>
