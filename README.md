@@ -22,6 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJones02&theme=highcontrast" alt="Your Top Languages" />
 </div>
 
+
 <div align="center">
   <p>If you'd like to support my work, consider staring my projects!</p>
 </div>
