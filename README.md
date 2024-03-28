@@ -3,7 +3,7 @@
 <h3 align="center">Welcome To My GitHub Profile! 👋</h3>
 
 <div align="center">
-  <p>Regular self taught programmer</p>
+  <p>Just another neeky self taught programmer</p>
 </div>
 
 [📁 Active Projects](https://github.com/DanielJones02/Active-Projects)
