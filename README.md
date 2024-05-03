@@ -28,8 +28,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJones02&theme=radical" alt="Your Top Languages" />
 </div>
 
-[![wakatime](https://wakatime.com/badge/user/61c0b7dc-025f-410d-a584-b3bb9ce0db9f.svg)](https://wakatime.com/@61c0b7dc-025f-410d-a584-b3bb9ce0db9f)
-
 <div align="center">
   <p>If you'd like to support my work, consider staring my projects!</p>
 </div>
