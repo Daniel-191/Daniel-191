@@ -2,11 +2,10 @@
 <h3 align="center">🚀 A Passionate Python and C++ Developer 🚀</h3>
 <h3 align="center">Welcome To My GitHub Profile! 👋</h3>
 
-<div align="center">
-  <p>Just another neeky self taught programmer</p>
-</div>
+<p align="center">
+  <a href="https://github.com/DanielJones02/Active-Projects">📁 Active Projects</a>
+</p>
 
-[📁 Active Projects](https://github.com/DanielJones02/Active-Projects)
 
 ## My Arsenal
 
