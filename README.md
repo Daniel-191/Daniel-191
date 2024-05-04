@@ -14,7 +14,10 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 [![wakatime](https://wakatime.com/badge/user/61c0b7dc-025f-410d-a584-b3bb9ce0db9f.svg)](https://wakatime.com/@61c0b7dc-025f-410d-a584-b3bb9ce0db9f)
 
-## GitHub Stats
+<div align="center">
+  <h1>My Github Stats</h1>
+</div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanielJones02&show_icons=true&theme=radical" />
