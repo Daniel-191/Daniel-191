@@ -2,9 +2,10 @@
 <h3 align="center">🚀 A Passionate Python and C++ Developer 🚀</h3>
 <h3 align="center">Welcome To My GitHub Profile! 👋</h3>
 
-
 ## For more info on me and my projects
 <a href="https://github.com/DanielJones02/Active-Projects">📁 Active Projects</a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DanielJones02&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My Toolset
 
