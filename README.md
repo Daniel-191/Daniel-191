@@ -17,6 +17,8 @@
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 [![wakatime](https://wakatime.com/badge/user/61c0b7dc-025f-410d-a584-b3bb9ce0db9f.svg)](https://wakatime.com/@61c0b7dc-025f-410d-a584-b3bb9ce0db9f)
 
+### Algorithms [LeetCode](https://leetcode.com/u/DanielOrourke02/)
+
 <div align="center">
   <h1>⭐My Github Stats⭐</h1>
 </div>
