@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Jones</h1>
+<h1 align="center">Hi 👋, I'm Daniel O'Rourke</h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DanielJones02&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
