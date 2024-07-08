@@ -19,6 +19,12 @@
 
 ### Algorithms [LeetCode](https://leetcode.com/u/DanielOrourke02/)
 
+## I'm Working on:
+
+- [LeetCode](https://leetcode.com/u/DanielOrourke02/)
+- Getting better at C++
+- Using SQL databases
+
 <div align="center">
   <h1>⭐My Github Stats⭐</h1>
 </div>
