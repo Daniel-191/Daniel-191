@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Daniel Jones</h1>
-<h3 align="center">🚀 A Passionate Python and C++ Developer 🚀</h3>
-<h3 align="center">Welcome To My GitHub Profile! 👋</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DanielJones02&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
