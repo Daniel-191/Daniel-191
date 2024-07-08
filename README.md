@@ -26,17 +26,28 @@
   <h1>⭐My Github Stats⭐</h1>
 </div>
 
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielJones02&show_icons=true&theme=radical" />
-</div>
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=DanielJones02&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielJones02&theme=radical" alt="Your GitHub Contributions" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJones02&theme=radical" alt="Your Top Languages" />
+---
+
+
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=DanielJones02&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJones02&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=DanielJones02&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <div align="center">
