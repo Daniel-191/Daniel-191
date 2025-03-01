@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel O'Rourke</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7B93E&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Daniel.;Welcome+to+my+GitHub!;I+love+coding+and+solving+problems.)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DanielOrourke02&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -22,8 +22,9 @@
 ## I'm Working on:
 
 - [LeetCode](https://leetcode.com/u/DanielOrourke02/)
-- Getting better at C++
-- Using SQL databases
+- C#
+- Mobile & PC Applications *(using C#)*
+- ~~SQL databases~~
 
 <div align="center">
   <h1>⭐My Github Stats⭐</h1>
