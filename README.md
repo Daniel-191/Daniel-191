@@ -11,7 +11,6 @@
 ## 🚀 Languages and Tools:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -24,14 +23,6 @@
 ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 [![wakatime](https://wakatime.com/badge/user/61c0b7dc-025f-410d-a584-b3bb9ce0db9f.svg)](https://wakatime.com/@61c0b7dc-025f-410d-a584-b3bb9ce0db9f)
-
----
-
-## 📌 What I'm Working On:
-🔹 [LeetCode Challenges](https://leetcode.com/u/DanielOrourke02/)  
-🔹 Developing Mobile & PC Applications *(C#)*  
-🔹 Exploring C++ and Python for system programming  
-🔹 ~~SQL Databases~~ 
 
 ---
 
