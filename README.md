@@ -4,7 +4,7 @@
   <h1>🏆 GitHub Achievements</h1>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DanielOrourke02&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Daniel-191&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -31,27 +31,27 @@
 </div>
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=DanielOrourke02&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Daniel-191&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 ---
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=DanielOrourke02&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielOrourke02&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Daniel-191&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-191&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
 ---
 
 <div align="center">
   <h1>📈 Activity Graph</h1>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielOrourke02&theme=github">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniel-191&theme=github">
 </div>
 
 ---
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=DanielOrourke02&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Daniel-191&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 ---
