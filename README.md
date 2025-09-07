@@ -57,5 +57,9 @@
 ---
 
 <div align="center">
+  <h4>Also the proud owner of <a href="https://top.gg/bot/1272208314163396650">Paradise Bot</a></h4>
+</div>
+
+<div align="center">
   <h3>⭐ If you enjoy my work, consider starring my repositories! ⭐</h3>
 </div>
