@@ -23,7 +23,6 @@
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 [![wakatime](https://wakatime.com/badge/user/61c0b7dc-025f-410d-a584-b3bb9ce0db9f.svg)](https://wakatime.com/@61c0b7dc-025f-410d-a584-b3bb9ce0db9f)
 
 ---
@@ -32,22 +31,23 @@
   <h1>📊 My GitHub Stats</h1>
 </div>
 
+
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.vercel.app?user=Daniel-191&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.vercel.app?user=Daniel-191&theme=dark&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 ---
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Daniel-191&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-191&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Daniel-191&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img width="400" height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Daniel-191&layout=compact&theme=dark">
 </p>
 
 ---
 
 <div align="center">
   <h1>📈 Activity Graph</h1>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniel-191&theme=github">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniel-191&theme=github-dark">
 </div>
 
 ---
