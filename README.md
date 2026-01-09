@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7B93E&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Daniel.;Welcome+to+my+GitHub!;I+love+coding+and+solving+problems.)](https://git.io/typing-svg)
-
 <div align="center">
   <h1>🏆 GitHub Achievements</h1>
 </div>
